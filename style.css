@@ -36,7 +36,7 @@ body {
 }
 
 #myConsole {
-    background-color: rgb(10, 10, 10);
+    background-color: rgba(10, 10, 10, 0.2);
     border: solid 3px rgb(192, 192, 192);
     color: white;
     height:  auto;
